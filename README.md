@@ -1,6 +1,6 @@
 ## FizzBuzz
 
-### Decription
+### Description
 The project displays any number between 1 an N by following the rules: 
 
 - If the number can be divided by 3: display **Fizz**
