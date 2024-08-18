@@ -1,10 +1,10 @@
 ### FizzBuzz
 The project displays any number between 1 an N by following the rules: 
 
-  if number can be divided by 3: display Fizz ;
+  `if number can be divided by 3: display Fizz ;
   if number can be divided by 5: display Buzz ;
-  if number can be divided by 3 AND 5 : display FizzBuzz ;
-  else: display the number.
+  if number can be divided by 3 AND 5 : display FizzBuzz 
+  else: display the number`
 
 #### Project Setup 
 Download the algo.html and algo.js file, both files have to be in the same folder
